@@ -29,6 +29,11 @@ Go to **[hireme.cybersartoria.it](https://hireme.cybersartoria.it)**
 The stamp updates in real time: **HIRED** or **FIRED**.
 
 ---
+## Demo video
+- [FIRED verdict](https://youtu.be/0eozrE88Tfc)
+- [HIRED verdict](https://youtu.be/NFyOhO78VfU)
+
+---
 
 ## How the search works
 
